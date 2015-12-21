@@ -1,0 +1,1 @@
+# logstash-filter-myplugin
